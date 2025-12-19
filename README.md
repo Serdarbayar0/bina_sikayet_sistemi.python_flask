@@ -10,7 +10,7 @@ Apartman sakinlerinin şikayetlerini güvenli ve şeffaf bir şekilde yönetmele
 ## 📸 Ekran Görüntüleri
 
 ### Ana Sayfa
-![Ana Sayfa](<img width="1919" height="870" alt="Ekran görüntüsü 2025-12-19 101942" src="https://github.com/user-attachments/assets/09031971-2bf8-4b91-bd16-bb8dbf36dd6c" />.)
+![Ana Sayfa](<img width="1919" height="870" alt="Ekran görüntüsü 2025-12-19 101942" src="https://github.com/user-attachments/assets/09031971-2bf8-4b91-bd16-bb8dbf36dd6c" />)
 ### Yönetici Paneli
 ![Yönetici Paneli](screenshots/admin-panel.png)
 
