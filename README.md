@@ -7,18 +7,6 @@ Apartman sakinlerinin şikayetlerini güvenli ve şeffaf bir şekilde yönetmele
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Live Demo](https://img.shields.io/badge/Demo-Live-success.svg)](https://serdarbayar.pythonanywhere.com)
 
-## 📸 Ekran Görüntüleri
-
-### Ana Sayfa
-![Ana Sayfa](<img width="1919" height="870" alt="Ekran görüntüsü 2025-12-19 101942" src="https://github.com/user-attachments/assets/40e0ebca-1354-4101-9e35-42418ee102ee" />
-)
-### Yönetici Paneli
-![Yönetici Paneli](screenshots/admin-panel.png)
-
-### Şikayet Detay
-![Şikayet Detay](screenshots/complaint-detail.png)
-
----
 
 ## 🎯 Proje Hakkında
 
